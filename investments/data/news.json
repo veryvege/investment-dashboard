@@ -1,46 +1,151 @@
 {
-  "as_of": "2026-06-17T17:14:42Z",
+  "as_of": "2026-06-17T23:11:06Z",
   "news": {
+    "AAPL": [
+      {
+        "headline": "AAPL Stock In Focus: Tim Cook Reportedly Confirms Hike In Apple Products Due To Memory Chip Crunch",
+        "source": "Stocktwits",
+        "url": "https://finance.yahoo.com/m/a1db2873-1a0f-30c0-b810-fd8b5aeff9d0/aapl-stock-in-focus%3A-tim-cook.html",
+        "published_at": "2026-06-17T22:16:03Z"
+      },
+      {
+        "headline": "Qualcomm eyes $10 billion AI shortcut as smartphone growth slows",
+        "source": "TheStreet",
+        "url": "https://finance.yahoo.com/m/a9c05c04-59f0-357b-879d-951d127ff702/qualcomm-eyes-%2410-billion-ai.html",
+        "published_at": "2026-06-17T22:07:00Z"
+      },
+      {
+        "headline": "Apple CEO warns price hikes ’unavoidable’ as chip costs bite - WSJ",
+        "source": "Investing.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-warns-price-hikes-215917035.html",
+        "published_at": "2026-06-17T21:59:17Z"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "Johnson & Johnson (JNJ) Reports Phase 3 Myeloma Win For TALVEY Combination",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-reports-phase-201540263.html",
+        "published_at": "2026-06-17T20:15:40Z"
+      },
+      {
+        "headline": "Nasdaq, US stocks slide as Fed forecasts possible rate hike",
+        "source": "Yahoo Finance Video",
+        "url": "https://finance.yahoo.com/video/nasdaq-us-stocks-slide-as-fed-forecasts-possible-rate-hike-201525166.html",
+        "published_at": "2026-06-17T20:15:25Z"
+      },
+      {
+        "headline": "J&J Has No Plans to Enter Obesity Drugs Market, CEO Says",
+        "source": "Bloomberg",
+        "url": "https://finance.yahoo.com/video/j-j-no-plans-enter-194112897.html",
+        "published_at": "2026-06-17T19:41:12Z"
+      }
+    ],
+    "NVDA": [
+      {
+        "headline": "Elon Musk Just Made This $1 Trillion SpaceX Prediction. Here's What It Could Mean for the Stock By 2030.",
+        "source": "Motley Fool",
+        "url": "https://finance.yahoo.com/m/76eb71c0-8322-3c79-aff0-438de72175f0/elon-musk-just-made-this-%241.html",
+        "published_at": "2026-06-17T23:00:00Z"
+      },
+      {
+        "headline": "Stock Market Today, June 17: Marvell Rises as AI Bookings Build on Nvidia-Linked Momentum",
+        "source": "Motley Fool",
+        "url": "https://finance.yahoo.com/m/30e27d91-6bf7-3cc9-a515-638225610eb2/stock-market-today%2C-june-17%3A.html",
+        "published_at": "2026-06-17T22:47:03Z"
+      },
+      {
+        "headline": "Why Meta Platforms Stock Plummeted by Over 5% on Wednesday",
+        "source": "Motley Fool",
+        "url": "https://finance.yahoo.com/m/6e50e6d2-c5e9-36db-8d48-da1f2b9c0f33/why-meta-platforms-stock.html",
+        "published_at": "2026-06-17T22:42:16Z"
+      }
+    ],
+    "QQQM": [
+      {
+        "headline": "Forget QQQ as the Same Company Sells the Same Nasdaq-100 for 17% Less",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/978764c1-ba5b-3165-9afa-49e5857a4ce2/forget-qqq-as-the-same.html",
+        "published_at": "2026-06-12T11:44:59Z"
+      },
+      {
+        "headline": "When will SpaceX Show Up in Your Portfolio?",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-show-portfolio-211800806.html",
+        "published_at": "2026-06-10T21:18:00Z"
+      },
+      {
+        "headline": "QQQ vs. QQQM: Same Index, So Which One Should You Actually Buy?",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/6742ecc7-9874-3e57-9f24-055da4b73ed5/qqq-vs.-qqqm%3A-same-index%2C-so.html",
+        "published_at": "2026-06-10T18:28:26Z"
+      }
+    ],
+    "SCHG": [
+      {
+        "headline": "Better ETF Buy Right Now: QQQ vs. SCHG",
+        "source": "Motley Fool",
+        "url": "https://finance.yahoo.com/m/47238701-df2e-3a8f-9b36-ac1f44eea5fe/better-etf-buy-right-now%3A-qqq.html",
+        "published_at": "2026-06-09T10:44:00Z"
+      },
+      {
+        "headline": "Best ETFs for Beginners in 2026: 7 Funds to Start Your Portfolio",
+        "source": "etf.com",
+        "url": "https://finance.yahoo.com/m/b07fc938-0712-3adb-b683-f17ff8a7b40e/best-etfs-for-beginners-in.html",
+        "published_at": "2026-06-08T22:31:44Z"
+      },
+      {
+        "headline": "Is Schwab’s U.S. Large-Cap Growth ETF’s (SCHG) 32× PE the Start of a Melt-Up or the Edge of a Cliff?",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/4f6193d3-8d8d-3b61-8506-eac14da9f6d2/is-schwab%E2%80%99s-u.s.-large-cap.html",
+        "published_at": "2026-06-08T17:30:21Z"
+      }
+    ],
+    "VOO": [
+      {
+        "headline": "Why ETFs Are the Key to Bringing Wall Street On-Chain",
+        "source": "etf.com",
+        "url": "https://finance.yahoo.com/m/1157f4ba-ec73-3741-876d-f3da56aaea5b/why-etfs-are-the-key-to.html",
+        "published_at": "2026-06-17T20:26:36Z"
+      },
+      {
+        "headline": "ETF League Tables: Vanguard, ARK Invest Lead Gains",
+        "source": "etf.com",
+        "url": "https://finance.yahoo.com/m/5c8a676e-b31d-315f-a334-e6f1b83111a9/etf-league-tables%3A-vanguard%2C.html",
+        "published_at": "2026-06-16T21:00:05Z"
+      },
+      {
+        "headline": "Is Vanguard’s S&P 500 Value ETF A Buy, Sell, Or Hold? | VOOV",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/2a8ce385-c8c5-3701-9506-3863fa55ff89/is-vanguard%E2%80%99s-s%26p-500-value.html",
+        "published_at": "2026-06-16T15:42:25Z"
+      }
+    ],
+    "Z": [
+      {
+        "headline": "Mortgage and refinance interest rates today, Wednesday, June 17, 2026: Fixed rates continue to fall",
+        "source": "Yahoo Personal Finance",
+        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-june-17-2026-100000509.html",
+        "published_at": "2026-06-17T10:00:00Z"
+      },
+      {
+        "headline": "Zillow (ZG) Faces Class Action Over Redfin Partnership And Antitrust Risk",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/real-estate/articles/zillow-zg-faces-class-action-043507365.html",
+        "published_at": "2026-06-17T04:35:07Z"
+      },
+      {
+        "headline": "Zillow Group (ZG) Stock Could Be 49.9% Undervalued as Its Real Estate Flywheel Is Tested",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/real-estate/articles/zillow-group-zg-stock-could-181256958.html",
+        "published_at": "2026-06-16T18:12:56Z"
+      }
+    ],
     "1023": [],
     "5211": [],
     "5347": [],
     "5398": [],
     "5555": [],
-    "AAPL": [
-      {"headline": "Snap thinks it can beat Apple, Meta and Google to your face", "source": "TheStreet", "url": "https://finance.yahoo.com/m/5d485551-d1c5-32da-b1a2-f9d270ed2ccf/snap-thinks-it-can-beat.html", "published_at": "2026-06-17T16:47:00Z"},
-      {"headline": "Dan Ives Has a $400 Price Target on Apple. After WWDC, Here's Whether He's Right.", "source": "Motley Fool", "url": "https://finance.yahoo.com/m/3127d8eb-26f4-31f8-b55b-5ed54a246bd3/dan-ives-has-a-%24400-price.html", "published_at": "2026-06-17T16:11:00Z"},
-      {"headline": "Should You Buy, Sell, or Hold AAPL Stock After a 52% Rise in One Year?", "source": "Zacks", "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-aapl-stock-154500539.html", "published_at": "2026-06-17T15:45:00Z"}
-    ],
-    "JNJ": [
-      {"headline": "Everyone Is Watching Eli Lilly Stock's New Drugs. Here Is the Metric That Vanished", "source": "Trefis", "url": "https://finance.yahoo.com/m/746b5e80-990e-3dae-ac9a-1d7cb4228150/everyone-is-watching-eli.html", "published_at": "2026-06-17T15:57:45Z"},
-      {"headline": "Johnson & Johnson to stay out of obesity drugs, focus on cancer, CEO says", "source": "Investing.com", "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-stay-obesity-drugs-153649402.html", "published_at": "2026-06-17T15:36:49Z"},
-      {"headline": "Investors Heavily Search Johnson & Johnson (JNJ): Here is What You Need to Know", "source": "Zacks", "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-johnson-johnson-130007811.html", "published_at": "2026-06-17T13:00:07Z"}
-    ],
-    "NVDA": [
-      {"headline": "Marvell Gains Attention After Nvidia Backing", "source": "GuruFocus.com", "url": "https://finance.yahoo.com/technology/ai/articles/marvell-gains-attention-nvidia-backing-165413870.html", "published_at": "2026-06-17T16:54:13Z"},
-      {"headline": "Jim Cramer on Cerebras: \"Even After the Pullback, This One's Too Rich for Me\"", "source": "Insider Monkey", "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cerebras-even-pullback-165349608.html", "published_at": "2026-06-17T16:53:49Z"},
-      {"headline": "Here's How I'd Invest $10,000 Right Now", "source": "Motley Fool", "url": "https://finance.yahoo.com/m/5d27b821-e9c9-37c9-96d4-eff68c02203d/here%27s-how-i%27d-invest-%2410%2C000.html", "published_at": "2026-06-17T16:50:00Z"}
-    ],
-    "QQQM": [
-      {"headline": "Forget QQQ as the Same Company Sells the Same Nasdaq-100 for 17% Less", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/978764c1-ba5b-3165-9afa-49e5857a4ce2/forget-qqq-as-the-same.html", "published_at": "2026-06-12T11:44:59Z"},
-      {"headline": "QQQ vs. QQQM: Same Index, So Which One Should You Actually Buy?", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/6742ecc7-9874-3e57-9f24-055da4b73ed5/qqq-vs.-qqqm%3A-same-index%2C-so.html", "published_at": "2026-06-10T18:28:26Z"},
-      {"headline": "SpaceX IPO: Every ETF That Will Hold SPCX — and When", "source": "etf.com", "url": "https://finance.yahoo.com/m/a664121b-267b-3e8c-8123-2ac5412869a5/spacex-ipo%3A-every-etf-that.html", "published_at": "2026-06-04T08:10:06Z"}
-    ],
-    "SCHG": [
-      {"headline": "Better ETF Buy Right Now: QQQ vs. SCHG", "source": "Motley Fool", "url": "https://finance.yahoo.com/m/47238701-df2e-3a8f-9b36-ac1f44eea5fe/better-etf-buy-right-now%3A-qqq.html", "published_at": "2026-06-09T10:44:00Z"},
-      {"headline": "Best ETFs for Beginners in 2026: 7 Funds to Start Your Portfolio", "source": "etf.com", "url": "https://finance.yahoo.com/m/b07fc938-0712-3adb-b683-f17ff8a7b40e/best-etfs-for-beginners-in.html", "published_at": "2026-06-08T22:31:44Z"},
-      {"headline": "Is Schwab's U.S. Large-Cap Growth ETF's (SCHG) 32× PE the Start of a Melt-Up or the Edge of a Cliff?", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/4f6193d3-8d8d-3b61-8506-eac14da9f6d2/is-schwab%E2%80%99s-u.s.-large-cap.html", "published_at": "2026-06-08T17:30:21Z"}
-    ],
-    "VOO": [
-      {"headline": "ETF League Tables: Vanguard, ARK Invest Lead Gains", "source": "etf.com", "url": "https://finance.yahoo.com/m/5c8a676e-b31d-315f-a334-e6f1b83111a9/etf-league-tables%3A-vanguard%2C.html", "published_at": "2026-06-16T21:00:05Z"},
-      {"headline": "Is Vanguard's S&P 500 Value ETF A Buy, Sell, Or Hold? | VOOV", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/2a8ce385-c8c5-3701-9506-3863fa55ff89/is-vanguard%E2%80%99s-s%26p-500-value.html", "published_at": "2026-06-16T15:42:25Z"},
-      {"headline": "VOOG vs. MGK: Which Vanguard Growth ETF Is a Better Buy?", "source": "Motley Fool", "url": "https://finance.yahoo.com/m/4b03c317-8f20-3997-bdec-7e2fc83c235f/voog-vs.-mgk%3A-which-vanguard.html", "published_at": "2026-06-16T15:35:00Z"}
-    ],
-    "Z": [
-      {"headline": "Mortgage and refinance interest rates today, Wednesday, June 17, 2026: Fixed rates continue to fall", "source": "Yahoo Personal Finance", "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-june-17-2026-100000509.html", "published_at": "2026-06-17T10:00:00Z"},
-      {"headline": "Zillow (ZG) Faces Class Action Over Redfin Partnership And Antitrust Risk", "source": "Simply Wall St.", "url": "https://finance.yahoo.com/real-estate/articles/zillow-zg-faces-class-action-043507365.html", "published_at": "2026-06-17T04:35:07Z"},
-      {"headline": "Zillow Group (ZG) Stock Could Be 49.9% Undervalued as Its Real Estate Flywheel Is Tested", "source": "Simply Wall St.", "url": "https://finance.yahoo.com/real-estate/articles/zillow-group-zg-stock-could-181256958.html", "published_at": "2026-06-16T18:12:56Z"}
-    ],
     "MYU0100A8420": []
   }
 }
