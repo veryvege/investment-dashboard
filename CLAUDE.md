@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-A personal financial portfolio management workspace for Khoo Jun Kai's Moomoo Malaysia account. It combines a browser-based productivity dashboard with investment tracking data.
+A personal financial portfolio management workspace for a personal Moomoo Malaysia account. It combines a browser-based productivity dashboard with investment tracking data.
 
 ## Running the app
 

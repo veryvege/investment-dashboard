@@ -1,1 +1,46 @@
-{"as_of": null, "news": {}}
+{
+  "as_of": "2026-06-17T05:06:12Z",
+  "news": {
+    "1023": [],
+    "5211": [],
+    "5347": [],
+    "5398": [],
+    "5555": [],
+    "AAPL": [
+      {"headline": "Intel Begins Production of Advanced 18A-P Chip Node, Inching Closer to Apple Deal, CNBC Reports", "source": "MT Newswires", "url": "https://finance.yahoo.com/technology/articles/intel-begins-production-advanced-18a-232116180.html", "published_at": "2025-04-13T23:01:16Z"},
+      {"headline": "VoIP-Pal.com Inc. Engages Veteran Consumer Class Action and Complex Litigation Attorney C. Glen Ged as Strategic Legal Consultant", "source": "GlobeNewswire", "url": "https://finance.yahoo.com/small-business/articles/voip-pal-com-inc-engages-230300967.html", "published_at": "2025-04-13T22:43:00Z"},
+      {"headline": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness — SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus", "source": "Stocktwits", "url": "https://finance.yahoo.com/m/b2fbca1b-2624-3465-9b99-191ec341844c/dow-hits-record-high-on.html", "published_at": "2025-04-13T21:22:32Z"}
+    ],
+    "JNJ": [
+      {"headline": "How to Build $3,000 a Month in Dividend Income to Cover the Average Social Security Check", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/404ed340-62ef-3603-aea9-ba6601292850/how-to-build-%243%2C000-a-month.html", "published_at": "2025-04-13T18:42:28Z"},
+      {"headline": "J&J drops key cancer trial results as Wall Street eyes stock", "source": "TheStreet", "url": "https://finance.yahoo.com/m/41c20d49-46ae-3e23-a817-0991f5d455e6/j%26j-drops-key-cancer-trial.html", "published_at": "2025-04-13T18:40:20Z"},
+      {"headline": "Can BMY's Camzyos Strengthen Its Cardiovascular Portfolio?", "source": "Zacks", "url": "https://finance.yahoo.com/healthcare/articles/bmys-camzyos-strengthen-cardiovascular-portfolio-181800160.html", "published_at": "2025-04-13T18:31:20Z"}
+    ],
+    "NVDA": [
+      {"headline": "Bull and Foxconn advance European AI infrastructure with NVIDIA Vera Rubin NVL72 platform built in Europe", "source": "GlobeNewswire", "url": "https://finance.yahoo.com/technology/ai/articles/bull-foxconn-advance-european-ai-040000673.html", "published_at": "2026-04-14T00:00:00Z"},
+      {"headline": "Custom AI Chips Are Coming for Nvidia's Crown. Here Are 2 Companies Quietly Cashing In.", "source": "Motley Fool", "url": "https://finance.yahoo.com/m/8e8da4dc-ec78-3028-b28e-a1064ac8a347/custom-ai-chips-are-coming.html", "published_at": "2026-04-14T00:12:00Z"},
+      {"headline": "1 Under-the-Radar Stock Riding the AI Boom (Hint: It's Not Nvidia)", "source": "Motley Fool", "url": "https://finance.yahoo.com/m/0a4f67ba-f814-3ee9-8543-a33bd937a4ce/1-under-the-radar-stock.html", "published_at": "2026-04-13T23:38:20Z"}
+    ],
+    "QQQM": [
+      {"headline": "Forget QQQ as the Same Company Sells the Same Nasdaq-100 for 17% Less", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/978764c1-ba5b-3165-9afa-49e5857a4ce2/forget-qqq-as-the-same.html", "published_at": "2025-04-08T15:31:39Z"},
+      {"headline": "When will SpaceX Show Up in Your Portfolio?", "source": "Zacks", "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-show-portfolio-211800806.html", "published_at": "2025-04-06T09:11:20Z"},
+      {"headline": "QQQ vs. QQQM: Same Index, So Which One Should You Actually Buy?", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/6742ecc7-9874-3e57-9f24-055da4b73ed5/qqq-vs.-qqqm%3A-same-index%2C-so.html", "published_at": "2025-04-06T06:01:46Z"}
+    ],
+    "SCHG": [
+      {"headline": "Better ETF Buy Right Now: QQQ vs. SCHG", "source": "Motley Fool", "url": "https://finance.yahoo.com/m/47238701-df2e-3a8f-9b36-ac1f44eea5fe/better-etf-buy-right-now%3A-qqq.html", "published_at": "2025-05-16T07:24:00Z"},
+      {"headline": "Best ETFs for Beginners in 2026: 7 Funds to Start Your Portfolio", "source": "etf.com", "url": "https://finance.yahoo.com/m/b07fc938-0712-3adb-b683-f17ff8a7b40e/best-etfs-for-beginners-in.html", "published_at": "2025-05-15T20:18:24Z"},
+      {"headline": "Is Schwab's U.S. Large-Cap Growth ETF's (SCHG) 32× PE the Start of a Melt-Up or the Edge of a Cliff?", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/4f6193d3-8d8d-3b61-8506-eac14da9f6d2/is-schwab%E2%80%99s-u.s.-large-cap.html", "published_at": "2025-05-15T15:30:21Z"}
+    ],
+    "VOO": [
+      {"headline": "ETF League Tables: Vanguard, ARK Invest Lead Gains", "source": "etf.com", "url": "https://finance.yahoo.com/m/5c8a676e-b31d-315f-a334-e6f1b83111a9/etf-league-tables%3A-vanguard%2C.html", "published_at": "2025-04-13T14:53:25Z"},
+      {"headline": "Is Vanguard's S&P 500 Value ETF A Buy, Sell, Or Hold? | VOOV", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/2a8ce385-c8c5-3701-9506-3863fa55ff89/is-vanguard%E2%80%99s-s%26p-500-value.html", "published_at": "2025-04-13T10:02:25Z"},
+      {"headline": "VOOG vs. MGK: Which Vanguard Growth ETF Is a Better Buy?", "source": "Motley Fool", "url": "https://finance.yahoo.com/m/4b03c317-8f20-3997-bdec-7e2fc83c235f/voog-vs.-mgk%3A-which-vanguard.html", "published_at": "2025-04-13T08:48:20Z"}
+    ],
+    "Z": [
+      {"headline": "Zillow (ZG) Faces Class Action Over Redfin Partnership And Antitrust Risk", "source": "Simply Wall St.", "url": "https://finance.yahoo.com/real-estate/articles/zillow-zg-faces-class-action-043507365.html", "published_at": "2026-06-16T18:35:07Z"},
+      {"headline": "Zillow Group (ZG) Stock Could Be 49.9% Undervalued as Its Real Estate Flywheel Is Tested", "source": "Simply Wall St.", "url": "https://finance.yahoo.com/real-estate/articles/zillow-group-zg-stock-could-181256958.html", "published_at": "2026-06-16T17:32:56Z"},
+      {"headline": "Here's Where Your Dog Wants To Retire. But Can You Afford It?", "source": "24/7 Wall St.", "url": "https://finance.yahoo.com/m/521867af-2370-3f8d-aef7-afb0fe8f1445/here%E2%80%99s-where-your-dog-wants.html", "published_at": "2026-06-16T16:08:19Z"}
+    ],
+    "MYU0100A8420": []
+  }
+}
