@@ -59,7 +59,7 @@
   .as-of { color: var(--text-dim); font-size: 0.8rem; margin-top: 8px; }
   .green { color: var(--green); }
   .red { color: var(--red); }
-  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; overflow-x: auto; display: block; }
   th, td { text-align: right; padding: 8px 10px; border-bottom: 1px solid var(--panel-border); white-space: nowrap; }
   th:first-child, td:first-child { text-align: left; }
   th { color: var(--text-dim); font-weight: 500; }
@@ -81,7 +81,6 @@
   .research-list a:hover { text-decoration: underline; }
   @media (max-width: 600px) {
     .movers-grid { grid-template-columns: 1fr; }
-    table { font-size: 0.78rem; }
     th, td { padding: 6px 5px; }
   }
 </style>
@@ -95,18 +94,18 @@
     <div class="header-grid">
       <div>
         <div class="stat-label">Total Value (MYR)</div>
-        <div class="stat-value">MYR 68,791.94</div>
+        <div class="stat-value">MYR 68,981.44</div>
       </div>
       <div>
         <div class="stat-label">Unrealized P&amp;L (MYR)</div>
-        <div class="stat-value green">+MYR 3,387.22 (+5.18%)</div>
+        <div class="stat-value green">+MYR 3,357.92 (+5.12%)</div>
       </div>
       <div>
         <div class="stat-label">Last Refreshed</div>
-        <div class="stat-value" style="font-size:1.1rem;">2026-08-05 00:00 UTC</div>
+        <div class="stat-value" style="font-size:1.1rem;">2026-08-12 00:00:00 UTC</div>
       </div>
     </div>
-    <div class="as-of">Base currency: MYR &middot; FX used: 1 USD = 4.087 MYR</div>
+    <div class="as-of">Base currency: MYR &middot; FX used: 1 USD = 4.09 MYR</div>
   </div>
 
   <!-- Holdings table -->
@@ -126,155 +125,170 @@
         </tr>
       </thead>
       <tbody>
-        <tr >
+        
+        <tr class="">
           <td>MYU0100A8420 <span class="news-meta">United USD Cash Fund-Class R — Moomoo MY money market fund (stale)</span></td>
-          <td>7,575.33</td>
+          <td>7,575.3258</td>
           <td>1.08 USD</td>
           <td>8,155.60 USD</td>
-          <td>33,152.51</td>
+          <td>33,356.40</td>
           <td class="">0.00</td>
-          <td class="">0.0%</td>
-          <td>48.2%</td>
+          <td class="">0.00%</td>
+          <td>48.4%</td>
         </tr>
-        <tr >
-          <td>VOO <span class="news-meta">Vanguard S&P 500 ETF</span></td>
+
+        <tr class="">
+          <td>VOO <span class="news-meta">Vanguard S&amp;P 500 ETF</span></td>
           <td>1.8367</td>
-          <td>708.98 USD</td>
-          <td>1,302.18 USD</td>
-          <td>5,322.01</td>
-          <td class="green">+739.87</td>
-          <td class="green">+1.81%</td>
+          <td>708.42 USD</td>
+          <td>1,301.16 USD</td>
+          <td>5,321.74</td>
+          <td class="green">+736.20</td>
+          <td class="red">-0.31%</td>
           <td>7.7%</td>
         </tr>
-        <tr >
+
+        <tr class="">
           <td>QQQM <span class="news-meta">Invesco NASDAQ 100 ETF</span></td>
           <td>4.1052</td>
-          <td>298.03 USD</td>
-          <td>1,223.47 USD</td>
-          <td>5,000.32</td>
-          <td class="green">+829.82</td>
-          <td class="green">+3.39%</td>
-          <td>7.3%</td>
+          <td>295.83 USD</td>
+          <td>1,214.44 USD</td>
+          <td>4,967.06</td>
+          <td class="green">+793.50</td>
+          <td class="red">-0.34%</td>
+          <td>7.2%</td>
         </tr>
-        <tr >
+
+        <tr class="">
           <td>1023 <span class="news-meta">CIMB Group Holdings — Bursa Malaysia</span></td>
-          <td>600.00</td>
-          <td>8.03 MYR</td>
-          <td>4,818.00 MYR</td>
-          <td>4,818.00</td>
-          <td class="green">+385.98</td>
-          <td class="green">+0.25%</td>
-          <td>7.0%</td>
+          <td>600</td>
+          <td>7.89 MYR</td>
+          <td>4,734.00 MYR</td>
+          <td>4,734.00</td>
+          <td class="green">+301.98</td>
+          <td class="red">-0.38%</td>
+          <td>6.9%</td>
         </tr>
-        <tr class="cash-row section-divider">
-          <td>CASH-USD <span class="news-meta">USD cash balance</span></td>
-          <td>1,035.46</td>
-          <td>1.00 USD</td>
-          <td>1,035.46 USD</td>
-          <td>4,231.93</td>
-          <td class="">0.00</td>
-          <td class="">0.0%</td>
-          <td>6.2%</td>
-        </tr>
-        <tr >
+
+        <tr class="">
           <td>SCHG <span class="news-meta">Schwab US Large-Cap Growth ETF</span></td>
           <td>21.7394</td>
-          <td>35.52 USD</td>
-          <td>772.18 USD</td>
-          <td>3,155.90</td>
-          <td class="green">+456.97</td>
-          <td class="green">+1.89%</td>
+          <td>35.65 USD</td>
+          <td>775.01 USD</td>
+          <td>3,169.79</td>
+          <td class="green">+468.84</td>
+          <td class="red">-0.50%</td>
           <td>4.6%</td>
         </tr>
-        <tr >
+
+        <tr class="">
           <td>5211 <span class="news-meta">Sunway Berhad — Bursa Malaysia</span></td>
-          <td>400.00</td>
-          <td>5.14 MYR</td>
-          <td>2,056.00 MYR</td>
-          <td>2,056.00</td>
-          <td class="green">+60.00</td>
-          <td class="red">-0.96%</td>
+          <td>400</td>
+          <td>5.15 MYR</td>
+          <td>2,060.00 MYR</td>
+          <td>2,060.00</td>
+          <td class="green">+64.00</td>
+          <td class="red">-1.53%</td>
           <td>3.0%</td>
         </tr>
-        <tr >
+
+        <tr class="">
           <td>5555 <span class="news-meta">Sunway Medical Centres Berhad — Bursa Malaysia</span></td>
-          <td>1,000.00</td>
-          <td>1.99 MYR</td>
-          <td>1,990.00 MYR</td>
-          <td>1,990.00</td>
-          <td class="green">+170.00</td>
-          <td class="green">+2.05%</td>
+          <td>1,000</td>
+          <td>2.02 MYR</td>
+          <td>2,020.00 MYR</td>
+          <td>2,020.00</td>
+          <td class="green">+200.00</td>
+          <td class="red">-0.98%</td>
           <td>2.9%</td>
         </tr>
-        <tr >
+
+        <tr class="">
           <td>NVDA <span class="news-meta">NVIDIA Corporation</span></td>
-          <td>2.0000</td>
-          <td>211.94 USD</td>
-          <td>423.88 USD</td>
-          <td>1,732.40</td>
-          <td class="red">-63.43</td>
-          <td class="green">+2.57%</td>
-          <td>2.5%</td>
+          <td>2</td>
+          <td>217.50 USD</td>
+          <td>435.00 USD</td>
+          <td>1,779.15</td>
+          <td class="red">-18.00</td>
+          <td class="red">-0.02%</td>
+          <td>2.6%</td>
         </tr>
+
+        <tr class="">
+          <td>5347 <span class="news-meta">Tenaga Nasional Berhad — Bursa Malaysia</span></td>
+          <td>100</td>
+          <td>14.34 MYR</td>
+          <td>1,434.00 MYR</td>
+          <td>1,434.00</td>
+          <td class="red">-16.00</td>
+          <td class="red">-0.42%</td>
+          <td>2.1%</td>
+        </tr>
+
+        <tr class="">
+          <td>JNJ <span class="news-meta">Johnson &amp; Johnson</span></td>
+          <td>1.3385</td>
+          <td>259.80 USD</td>
+          <td>347.74 USD</td>
+          <td>1,422.26</td>
+          <td class="green">+190.27</td>
+          <td class="red">-0.77%</td>
+          <td>2.1%</td>
+        </tr>
+
+        <tr class="">
+          <td>AAPL <span class="news-meta">Apple Inc</span></td>
+          <td>1.0006</td>
+          <td>304.91 USD</td>
+          <td>305.09 USD</td>
+          <td>1,247.82</td>
+          <td class="green">+553.50</td>
+          <td class="red">-1.09%</td>
+          <td>1.8%</td>
+        </tr>
+
+        <tr class="">
+          <td>5398 <span class="news-meta">Gamuda Berhad — Bursa Malaysia</span></td>
+          <td>200</td>
+          <td>4.50 MYR</td>
+          <td>900.00 MYR</td>
+          <td>900.00</td>
+          <td class="green">+144.00</td>
+          <td class="green">+1.35%</td>
+          <td>1.3%</td>
+        </tr>
+
+        <tr class="">
+          <td>Z <span class="news-meta">Zillow Group Class C</span></td>
+          <td>5.4259</td>
+          <td>34.14 USD</td>
+          <td>185.24 USD</td>
+          <td>757.63</td>
+          <td class="red">-60.37</td>
+          <td class="green">+1.16%</td>
+          <td>1.1%</td>
+        </tr>
+<tr class="section-divider"><td colspan="8"></td></tr>
+        <tr class="cash-row">
+          <td>CASH-USD <span class="news-meta">USD cash balance</span></td>
+          <td>1,035.4600</td>
+          <td>1.00 USD</td>
+          <td>1,035.46 USD</td>
+          <td>4,235.03</td>
+          <td class="">0.00</td>
+          <td class="">0.00%</td>
+          <td>6.1%</td>
+        </tr>
+<tr class="section-divider"><td colspan="8"></td></tr>
         <tr class="cash-row">
           <td>CASH-MYR <span class="news-meta">MYR cash balance</span></td>
-          <td>1,576.56</td>
+          <td>1,576.5600</td>
           <td>1.00 MYR</td>
           <td>1,576.56 MYR</td>
           <td>1,576.56</td>
           <td class="">0.00</td>
-          <td class="">0.0%</td>
+          <td class="">0.00%</td>
           <td>2.3%</td>
-        </tr>
-        <tr >
-          <td>5347 <span class="news-meta">Tenaga Nasional Berhad — Bursa Malaysia</span></td>
-          <td>100.00</td>
-          <td>14.50 MYR</td>
-          <td>1,450.00 MYR</td>
-          <td>1,450.00</td>
-          <td class="">0.00</td>
-          <td class="">0.0%</td>
-          <td>2.1%</td>
-        </tr>
-        <tr >
-          <td>JNJ <span class="news-meta">Johnson & Johnson</span></td>
-          <td>1.3385</td>
-          <td>254.93 USD</td>
-          <td>341.22 USD</td>
-          <td>1,394.57</td>
-          <td class="green">+163.48</td>
-          <td class="green">+0.20%</td>
-          <td>2.0%</td>
-        </tr>
-        <tr >
-          <td>AAPL <span class="news-meta">Apple Inc</span></td>
-          <td>1.0006</td>
-          <td>309.38 USD</td>
-          <td>309.57 USD</td>
-          <td>1,265.21</td>
-          <td class="green">+571.40</td>
-          <td class="green">+1.96%</td>
-          <td>1.8%</td>
-        </tr>
-        <tr >
-          <td>5398 <span class="news-meta">Gamuda Berhad — Bursa Malaysia</span></td>
-          <td>200.00</td>
-          <td>4.21 MYR</td>
-          <td>842.00 MYR</td>
-          <td>842.00</td>
-          <td class="green">+86.00</td>
-          <td class="red">-0.71%</td>
-          <td>1.2%</td>
-        </tr>
-        <tr >
-          <td>Z <span class="news-meta">Zillow Group Class C</span></td>
-          <td>5.4259</td>
-          <td>36.28 USD</td>
-          <td>196.85 USD</td>
-          <td>804.53</td>
-          <td class="red">-12.87</td>
-          <td class="green">+3.30%</td>
-          <td>1.2%</td>
         </tr>
       </tbody>
     </table>
@@ -301,14 +315,14 @@
     <div class="movers-grid">
       <div>
         <h3 style="font-size:1rem; color:var(--green);">Gainers</h3>
-        <div class="mover-row"><span>QQQM &mdash; Invesco NASDAQ 100 ETF</span><span class="green">+3.39% &middot; MYR 5,000.32</span></div>
-        <div class="mover-row"><span>Z &mdash; Zillow Group Class C</span><span class="green">+3.30% &middot; MYR 804.53</span></div>
-        <div class="mover-row"><span>NVDA &mdash; NVIDIA Corporation</span><span class="green">+2.57% &middot; MYR 1,732.40</span></div>
+        <div class="mover-row"><span>5398 — Gamuda Berhad</span><span class="green">+1.35% &middot; MYR 900.00</span></div>
+<div class="mover-row"><span>Z — Zillow Group Class C</span><span class="green">+1.16% &middot; MYR 757.63</span></div>
       </div>
       <div>
         <h3 style="font-size:1rem; color:var(--red);">Losers</h3>
-        <div class="mover-row"><span>5211 &mdash; Sunway Berhad</span><span class="red">-0.96% &middot; MYR 2,056.00</span></div>
-        <div class="mover-row"><span>5398 &mdash; Gamuda Berhad</span><span class="red">-0.71% &middot; MYR 842.00</span></div>
+        <div class="mover-row"><span>5211 — Sunway Berhad</span><span class="red">-1.53% &middot; MYR 2,060.00</span></div>
+<div class="mover-row"><span>AAPL — Apple Inc</span><span class="red">-1.09% &middot; MYR 1,247.82</span></div>
+<div class="mover-row"><span>5555 — Sunway Medical Centres Berhad</span><span class="red">-0.98% &middot; MYR 2,020.00</span></div>
       </div>
     </div>
   </div>
@@ -316,7 +330,7 @@
   <!-- Portfolio history -->
   <div class="panel">
     <h2>Portfolio Value Over Time</h2>
-    <div class="placeholder">History will appear here after a few daily runs.</div>
+    <div class="chart-wrap" style="height:220px"><canvas id="historyChart"></canvas></div>
   </div>
 
   <!-- News feed -->
@@ -326,47 +340,47 @@
       <h4>MYU0100A8420 &mdash; United USD Cash Fund</h4>
       <div class="news-meta">No news available.</div>
     </div>
-    <div class="news-ticker-block">
-      <h4>VOO &mdash; Vanguard S&amp;P 500 ETF</h4>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/8e345ac2-baff-3665-94df-b61199eda4c3/the-dow-just-gained-1000.html" target="_blank">The Dow Just Gained 1000 Points for the 27th Day Ever. 25 of These Days Happened Under Donald Trump.</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-04-05</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-wealth-building-strategy-193107207.html" target="_blank">Warren Buffett's Wealth-Building Strategy Points to This One ETF for Long-Term Investors</a><br><span class="news-meta">Benzinga &middot; 2025-04-05</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/a9086ee9-e8c4-3739-b19e-34d07dd3fa6f/this-is-the-biggest-mistake.html" target="_blank">This Is the Biggest Mistake Too Many Investors Make With an S&amp;P 500 ETF</a><br><span class="news-meta">Motley Fool &middot; 2025-04-05</span></div>
+<div class="news-ticker-block">
+      <h4>VOO &mdash; Vanguard S&P 500 ETF</h4>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/84991326-8ee7-3297-8c08-650ff863fbd0/forget-voo%E2%80%99s-0.03%25%3A-fidelity.html" target="_blank">Forget VOO&#x27;s 0.03%: Fidelity Will Sell You Large-Cap America for Exactly $0</a><br><span class="news-meta">24/7 Wall St. &middot; 2024-04-11</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/f894540e-5a45-31fe-8014-a04a982d8549/vym%E2%80%99s-2.2%25-yield-hides.html" target="_blank">VYM&#x27;s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&amp;P 500</a><br><span class="news-meta">24/7 Wall St. &middot; 2024-04-10</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/a0822c5a-3502-39db-bcbf-bc7d77a88fbd/how-much-of-the-s%26p-500%27s.html" target="_blank">How Much of the S&amp;P 500&#x27;s Return Actually Came From Dividends vs. Price Appreciation, by Decade</a><br><span class="news-meta">Motley Fool &middot; 2024-04-10</span></div>
     </div>
-    <div class="news-ticker-block">
+<div class="news-ticker-block">
       <h4>QQQM &mdash; Invesco NASDAQ 100 ETF</h4>
-      <div class="news-item"><a href="https://finance.yahoo.com/markets/stocks/articles/bull-day-invesco-ivz-080000365.html" target="_blank">Bull of the Day: Invesco (IVZ)</a><br><span class="news-meta">Zacks &middot; 2024-04-04</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/5789adc6-9f7a-36d2-9525-7458e634f2d3/5-etfs-to-buy-once-and-hold.html" target="_blank">5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years</a><br><span class="news-meta">24/7 Wall St. &middot; 2024-04-01</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/cacca807-776c-3041-a254-ddbb7162f0d4/1-monthly-paying-etf-retirees.html" target="_blank">1 Monthly-Paying ETF Retirees Are Buying Hand Over Fist, and the 1 Thing They're Giving Up</a><br><span class="news-meta">24/7 Wall St. &middot; 2024-03-24</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/ca9089c4-3fd6-324b-9bd3-75100d2a0d62/jepq%E2%80%99s-10.9%25-yield-hides.html" target="_blank">JEPQ&#x27;s 10.9% Yield Hides $2,900 Annual Tax Bill Most Retirees Never See</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-04-10</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/6cead002-01bf-3b2f-8d3f-c0385d7e97eb/same-100-stocks%2C-different.html" target="_blank">Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-04-09</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/markets/stocks/articles/guide-nasdaq-etf-investing-175900121.html" target="_blank">A Guide to Nasdaq ETF Investing</a><br><span class="news-meta">Zacks &middot; 2025-04-07</span></div>
     </div>
-    <div class="news-ticker-block">
+<div class="news-ticker-block">
       <h4>SCHG &mdash; Schwab US Large-Cap Growth ETF</h4>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/0062251c-11c9-3fbb-8a9f-eea64174b56d/these-growth-funds-are-on.html" target="_blank">These Growth Funds Are On Quiet Sale</a><br><span class="news-meta">Trefis &middot; 2025-05-24</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/5a93a533-bc19-31dd-8846-19787e88147c/meta%2C-tesla%2C-nvidia%3A-this-etf.html" target="_blank">Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-05-22</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/ac7d1dbc-ac25-3f69-952f-b2f6ad7030ba/the-megacap-growth-etf-that%E2%80%99s.html" target="_blank">The Megacap Growth ETF That's Been Beating the S&amp;P 500 for a Decade Straight</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-05-22</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/36c49a48-2806-305c-aba7-7aa528c556d8/you-paid-into-social-security.html" target="_blank">You Paid Into Social Security for 40 Years. The IRS Can Still Tax 85% of Your Check. These 3 ETFs Even the Score</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-04-05</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/968a759e-b43a-3a19-977e-9e0eb0408d3d/schg-quintupled-your-money-in.html" target="_blank">SCHG Quintupled Your Money in 10 Years, and the 4-Cent Fee Is Doing Heavy Lifting</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-04-03</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/820e8271-30e0-3208-8d0a-8ec1cc9fc77e/the-irs-now-lets-60-year-olds.html" target="_blank">The IRS Now Lets 60-Year-Olds Stash $35,750 in a 401(k) a Year. These 3 ETFs Make Maxing It Worth It</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-04-01</span></div>
     </div>
-    <div class="news-ticker-block">
+<div class="news-ticker-block">
       <h4>NVDA &mdash; NVIDIA Corporation</h4>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/bde7d268-1b6b-30c9-9786-36a40c5dd22c/why-asml-stock-lost-18%25-in.html" target="_blank">Why ASML Stock Lost 18% in July</a><br><span class="news-meta">Motley Fool &middot; 2026-04-05</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/826b4186-b118-34e1-b922-9d88903f8470/what-alphabet%E2%80%99s-stock-drop.html" target="_blank">What Alphabet's Stock Drop Tells Us About the Market Today</a><br><span class="news-meta">Motley Fool &middot; 2026-04-05</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/d2edb4ee-49fa-3e18-b0c3-082c843b42f9/micron-trades-at-just-5-times.html" target="_blank">Micron Trades at Just 5 Times Forward Earnings. Here's Why the Market Doesn't Trust the Memory Supercycle Yet.</a><br><span class="news-meta">Motley Fool &middot; 2026-04-05</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-3-nvidia.html" target="_blank">Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due</a><br><span class="news-meta">Investor&#x27;s Business Daily &middot; 2026-08-11</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/94a1cac3-1592-35bf-86aa-f39b19205188/mark-zuckerberg-published-his.html" target="_blank">Mark Zuckerberg Published His Superintelligence Manifesto Monday Morning. Meta Still Trades at 18 Times Forward Earnings.</a><br><span class="news-meta">Motley Fool &middot; 2026-08-11</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/370dc558-48be-32b0-8d67-d651c9ad6e5c/better-buy%3A-eli-lilly-vs..html" target="_blank">Better Buy: Eli Lilly vs. Novo Nordisk</a><br><span class="news-meta">Motley Fool &middot; 2026-08-11</span></div>
     </div>
-    <div class="news-ticker-block">
+<div class="news-ticker-block">
       <h4>JNJ &mdash; Johnson &amp; Johnson</h4>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/7fdc663a-472e-3293-ad0f-92033c5771b3/how-much-do-you-really-need.html" target="_blank">How Much Do You Really Need Invested to Replace a $100,000 Salary With Dividends?</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-04-05</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/healthcare/articles/johnson-johnson-participate-2026-wells-200500029.html" target="_blank">Johnson &amp; Johnson to Participate in the 2026 Wells Fargo Healthcare Conference</a><br><span class="news-meta">Business Wire &middot; 2025-04-05</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/48d95793-ee34-3e8b-8a55-1b336553d5ec/the-%2485-billion-consolation.html" target="_blank">The $85 Billion Consolation Prize For JNJ Shareholders</a><br><span class="news-meta">Trefis &middot; 2025-04-05</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/e222cb0c-2610-3da9-ba32-24086ce8d8de/jnj-keeps-climbing.-should.html" target="_blank">JNJ Keeps Climbing. Should You Climb On?</a><br><span class="news-meta">Trefis &middot; 2026-05-06</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/01105de4-504a-37b7-bf13-22f1df8928fc/the-u.s.-labor-market-is.html" target="_blank">The U.S. Labor Market Is Weakening. These 2 Dividend Stocks Look Built to Weather a Recession</a><br><span class="news-meta">Motley Fool &middot; 2026-05-06</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/0ca5baf6-0c1e-381f-8532-3c68dd9709be/johnson-%26-johnson-nearing.html" target="_blank">Johnson &amp; Johnson Nearing 52-Week High: Buy, Sell or Hold?</a><br><span class="news-meta">24/7 Wall St. &middot; 2026-05-06</span></div>
     </div>
-    <div class="news-ticker-block">
+<div class="news-ticker-block">
       <h4>AAPL &mdash; Apple Inc</h4>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/ed87df3d-8365-3306-baee-b0383fa2e6d3/3-reasons-to-buy-apple-stock.html" target="_blank">3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down</a><br><span class="news-meta">Motley Fool &middot; 2025-04-05</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/8f149854-0bee-36fe-9c8e-4516691e1d25/openai-dumps-apple-employees%27.html" target="_blank">OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit</a><br><span class="news-meta">decrypt &middot; 2025-04-05</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/m/f7f2d72b-31c5-3111-97ea-c084778c2ca9/here%27s-when-spacex-expects-%241.html" target="_blank">Here's When SpaceX Expects $1 Trillion in Annual Revenue</a><br><span class="news-meta">Barrons.com &middot; 2025-04-05</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/2f1e12fb-f267-39b7-ba14-40e3ad0776a6/why-apple-customers-will-have.html" target="_blank">Why Apple customers will have to wait over a year for $250M settlement</a><br><span class="news-meta">USA TODAY &middot; 2025-04-07</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/f68f8384-3304-3eda-a481-94efafa4c580/apple-pay-chief-jennifer.html" target="_blank">Apple Pay Chief Jennifer Bailey Is Retiring After More Than 25 Years, Says Report — AAPL Stock Slips</a><br><span class="news-meta">Stocktwits &middot; 2025-04-07</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/3fab31ba-d2d7-3a87-a73a-9d6f2e660528/opinion%3A-wall-street%E2%80%99s-new.html" target="_blank">Opinion: Wall Street&#x27;s New Apple Bear Case Is Dead Wrong</a><br><span class="news-meta">24/7 Wall St. &middot; 2025-04-07</span></div>
     </div>
-    <div class="news-ticker-block">
+<div class="news-ticker-block">
       <h4>Z &mdash; Zillow Group Class C</h4>
-      <div class="news-item"><a href="https://finance.yahoo.com/real-estate/articles/bought-house-2-years-ago-144603348.html" target="_blank">We Bought Our House 2 Years Ago. Now the County Says It's Worth Far More Than Zillow Does and Our Monthly Payment Could Jump by Hundreds</a><br><span class="news-meta">Benzinga &middot; 2026-08-04</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-4-2026-rates-firm-as-us-pivots-to-diplomacy-with-iran-100000343.html" target="_blank">Mortgage and refinance rates today, Tuesday, August 4, 2026: Rates firm as U.S. pivots to diplomacy with Iran</a><br><span class="news-meta">Yahoo Personal Finance &middot; 2026-08-04</span></div>
-      <div class="news-item"><a href="https://finance.yahoo.com/healthcare/articles/healthstream-hstm-q2-earnings-revenues-224506020.html" target="_blank">HealthStream (HSTM) Q2 Earnings and Revenues Top Estimates</a><br><span class="news-meta">Zacks &middot; 2026-08-03</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/m/3eb6e8b5-ab34-3631-81f8-95d8b59471e6/is-zillow-%28z%29-stock-a-buy.html" target="_blank">Is Zillow (Z) Stock a Buy After Falling Nearly 13% in 1 Day?</a><br><span class="news-meta">Motley Fool &middot; 2026-04-10</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-concern-194122976.html" target="_blank">3 Small-Cap Stocks That Concern Us</a><br><span class="news-meta">StockStory &middot; 2026-04-10</span></div>
+      <div class="news-item"><a href="https://finance.yahoo.com/markets/stocks/articles/zillow-group-zg-fallen-far-100914613.html" target="_blank">Has Zillow Group (ZG) Fallen Far Enough To Look Fairly Valued?</a><br><span class="news-meta">Simply Wall St. &middot; 2026-04-07</span></div>
     </div>
     <div class="news-ticker-block">
       <h4>1023, 5211, 5347, 5398, 5555 &mdash; Bursa Malaysia holdings</h4>
@@ -395,7 +409,7 @@
     data: {
       labels: ['USD Cash Fund', 'US ETFs', 'Malaysia Equities (Bursa)', 'US Individual Stocks', 'Cash'],
       datasets: [{
-        data: [33152.51, 13478.23, 11156.00, 5196.71, 5808.49],
+        data: [33356.4, 13458.59, 11148.0, 5206.86, 5811.59],
         backgroundColor: palette,
         borderWidth: 0
       }]
@@ -412,7 +426,7 @@
     data: {
       labels: ['USD', 'MYR'],
       datasets: [{
-        data: [56059.38, 12732.56],
+        data: [56256.88, 12724.56],
         backgroundColor: ['#5b9dff', '#ffb84d'],
         borderWidth: 0
       }]
@@ -421,6 +435,32 @@
       responsive: true,
       maintainAspectRatio: false,
       plugins: { legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } } }
+    }
+  });
+
+  new Chart(document.getElementById('historyChart'), {
+    type: 'line',
+    data: {
+      labels: ["2026-06-17", "2026-08-05", "2026-08-12"],
+      datasets: [{
+        label: 'Portfolio (MYR)',
+        data: [67866.36, 68791.94, 68981.44],
+        borderColor: '#5b9dff',
+        backgroundColor: 'rgba(91,157,255,0.12)',
+        tension: 0.3,
+        fill: true,
+        pointRadius: 5,
+        pointBackgroundColor: '#5b9dff'
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => 'MYR ' + ctx.parsed.y.toLocaleString('en-MY', {minimumFractionDigits:2}) } } },
+      scales: {
+        x: { grid: { color: '#262a33' }, ticks: { color: '#9aa1ad' } },
+        y: { grid: { color: '#262a33' }, ticks: { color: '#9aa1ad', callback: v => 'MYR ' + v.toLocaleString('en-MY') } }
+      }
     }
   });
 
