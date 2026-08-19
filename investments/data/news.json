@@ -1,151 +1,151 @@
 {
-  "as_of": "2026-08-05T00:00:00Z",
+  "as_of": "2026-08-19T00:00:00Z",
   "news": {
-    "AAPL": [
-      {
-        "headline": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down",
-        "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/ed87df3d-8365-3306-baee-b0383fa2e6d3/3-reasons-to-buy-apple-stock.html",
-        "published_at": "2025-04-05T12:14:40Z"
-      },
-      {
-        "headline": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-        "source": "decrypt",
-        "url": "https://finance.yahoo.com/m/8f149854-0bee-36fe-9c8e-4516691e1d25/openai-dumps-apple-employees%27.html",
-        "published_at": "2025-04-05T10:59:23Z"
-      },
-      {
-        "headline": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
-        "source": "Barrons.com",
-        "url": "https://finance.yahoo.com/m/f7f2d72b-31c5-3111-97ea-c084778c2ca9/here%27s-when-spacex-expects-%241.html",
-        "published_at": "2025-04-05T10:34:43Z"
-      }
-    ],
-    "JNJ": [
-      {
-        "headline": "How Much Do You Really Need Invested to Replace a $100,000 Salary With Dividends?",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/7fdc663a-472e-3293-ad0f-92033c5771b3/how-much-do-you-really-need.html",
-        "published_at": "2025-04-05T12:23:28Z"
-      },
-      {
-        "headline": "Johnson & Johnson to Participate in the 2026 Wells Fargo Healthcare Conference",
-        "source": "Business Wire",
-        "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-participate-2026-wells-200500029.html",
-        "published_at": "2025-04-05T11:45:00Z"
-      },
-      {
-        "headline": "The $85 Billion Consolation Prize For JNJ Shareholders",
-        "source": "Trefis",
-        "url": "https://finance.yahoo.com/m/48d95793-ee34-3e8b-8a55-1b336553d5ec/the-%2485-billion-consolation.html",
-        "published_at": "2025-04-05T11:23:10Z"
-      }
-    ],
-    "NVDA": [
-      {
-        "headline": "Why ASML Stock Lost 18% in July",
-        "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/bde7d268-1b6b-30c9-9786-36a40c5dd22c/why-asml-stock-lost-18%25-in.html",
-        "published_at": "2026-04-05T03:30:00Z"
-      },
-      {
-        "headline": "What Alphabet's Stock Drop Tells Us About the Market Today",
-        "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/826b4186-b118-34e1-b922-9d88903f8470/what-alphabet%E2%80%99s-stock-drop.html",
-        "published_at": "2026-04-05T03:24:43Z"
-      },
-      {
-        "headline": "Micron Trades at Just 5 Times Forward Earnings. Here's Why the Market Doesn't Trust the Memory Supercycle Yet.",
-        "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/d2edb4ee-49fa-3e18-b0c3-082c843b42f9/micron-trades-at-just-5-times.html",
-        "published_at": "2026-04-05T03:00:00Z"
-      }
-    ],
-    "QQQM": [
-      {
-        "headline": "Bull of the Day: Invesco (IVZ)",
-        "source": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-invesco-ivz-080000365.html",
-        "published_at": "2024-04-04T00:00:00Z"
-      },
-      {
-        "headline": "5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/5789adc6-9f7a-36d2-9525-7458e634f2d3/5-etfs-to-buy-once-and-hold.html",
-        "published_at": "2024-04-01T15:07:58Z"
-      },
-      {
-        "headline": "1 Monthly-Paying ETF Retirees Are Buying Hand Over Fist, and the 1 Thing They're Giving Up",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/cacca807-776c-3041-a254-ddbb7162f0d4/1-monthly-paying-etf-retirees.html",
-        "published_at": "2024-03-24T14:18:49Z"
-      }
-    ],
-    "SCHG": [
-      {
-        "headline": "These Growth Funds Are On Quiet Sale",
-        "source": "Trefis",
-        "url": "https://finance.yahoo.com/m/0062251c-11c9-3fbb-8a9f-eea64174b56d/these-growth-funds-are-on.html",
-        "published_at": "2025-05-24T14:33:02Z"
-      },
-      {
-        "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/5a93a533-bc19-31dd-8846-19787e88147c/meta%2C-tesla%2C-nvidia%3A-this-etf.html",
-        "published_at": "2025-05-22T06:30:20Z"
-      },
-      {
-        "headline": "The Megacap Growth ETF That's Been Beating the S&P 500 for a Decade Straight",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/ac7d1dbc-ac25-3f69-952f-b2f6ad7030ba/the-megacap-growth-etf-that%E2%80%99s.html",
-        "published_at": "2025-05-22T05:35:05Z"
-      }
-    ],
-    "VOO": [
-      {
-        "headline": "The Dow Just Gained 1000 Points for the 27th Day Ever. 25 of These Days Happened Under Donald Trump.",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/8e345ac2-baff-3665-94df-b61199eda4c3/the-dow-just-gained-1000.html",
-        "published_at": "2025-04-05T07:32:21Z"
-      },
-      {
-        "headline": "Warren Buffett's Wealth-Building Strategy Points to This One ETF for Long-Term Investors",
-        "source": "Benzinga",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-wealth-building-strategy-193107207.html",
-        "published_at": "2025-04-05T03:37:47Z"
-      },
-      {
-        "headline": "This Is the Biggest Mistake Too Many Investors Make With an S&P 500 ETF",
-        "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/a9086ee9-e8c4-3739-b19e-34d07dd3fa6f/this-is-the-biggest-mistake.html",
-        "published_at": "2025-04-05T02:00:00Z"
-      }
-    ],
-    "Z": [
-      {
-        "headline": "We Bought Our House 2 Years Ago. Now the County Says It's Worth Far More Than Zillow Does and Our Monthly Payment Could Jump by Hundreds",
-        "source": "Benzinga",
-        "url": "https://finance.yahoo.com/real-estate/articles/bought-house-2-years-ago-144603348.html",
-        "published_at": "2026-08-04T18:26:03Z"
-      },
-      {
-        "headline": "Mortgage and refinance rates today, Tuesday, August 4, 2026: Rates firm as U.S. pivots to diplomacy with Iran",
-        "source": "Yahoo Personal Finance",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-4-2026-rates-firm-as-us-pivots-to-diplomacy-with-iran-100000343.html",
-        "published_at": "2026-08-04T12:00:00Z"
-      },
-      {
-        "headline": "HealthStream (HSTM) Q2 Earnings and Revenues Top Estimates",
-        "source": "Zacks",
-        "url": "https://finance.yahoo.com/healthcare/articles/healthstream-hstm-q2-earnings-revenues-224506020.html",
-        "published_at": "2026-08-03T23:45:06Z"
-      }
-    ],
     "1023": [],
     "5211": [],
     "5347": [],
     "5398": [],
     "5555": [],
+    "AAPL": [
+      {
+        "headline": "Jim Cramer doubles down on Tim Cook and Apple verdict",
+        "source": "TheStreet",
+        "url": "https://finance.yahoo.com/m/264f7f84-ef1a-3a06-9f5d-2ee80315e0a0/jim-cramer-doubles-down-on.html",
+        "published_at": "2025-04-16T04:57:00Z"
+      },
+      {
+        "headline": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+        "source": "Motley Fool",
+        "url": "https://finance.yahoo.com/m/15569390-70d4-3ab4-8ffc-55015ef74183/warren-buffett%27s-successor%2C.html",
+        "published_at": "2025-04-16T03:40:00Z"
+      },
+      {
+        "headline": "US Stocks End Third Session Lower As Higher Treasury Yields, Oil Prices Weigh — BABA, AAPL, GRRR, KLAR, CRWD In Focus",
+        "source": "Stocktwits",
+        "url": "https://finance.yahoo.com/m/1531307b-53c6-3678-aa33-dd7ca8654dd9/us-stocks-end-third-session.html",
+        "published_at": "2025-04-16T02:48:28Z"
+      }
+    ],
+    "JNJ": [
+      {
+        "headline": "Johnson & Johnson Stock Jumps 3% as Healthcare Rotation Lifts Shares",
+        "source": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-stock-jumps-3-200229652.html",
+        "published_at": "2025-06-15T18:02:29Z"
+      },
+      {
+        "headline": "The 5 Safest Vanguard Funds to Own in a Volatile Market",
+        "source": "Kiplinger",
+        "url": "https://finance.yahoo.com/m/d7099270-3bec-317f-97e2-047d1b9a0d12/the-5-safest-vanguard-funds.html",
+        "published_at": "2025-06-15T16:35:46Z"
+      },
+      {
+        "headline": "4 Highly Rated Vanguard Dividend and Income Funds",
+        "source": "Kiplinger",
+        "url": "https://finance.yahoo.com/m/3d3ddae4-bf5f-37f1-8a09-124576629d28/4-highly-rated-vanguard.html",
+        "published_at": "2025-06-15T15:32:37Z"
+      }
+    ],
+    "NVDA": [
+      {
+        "headline": "Drone Stocks See Limited Losses Tuesday During Nasdaq Sell-Off: Red Cat, Ondas Flat While AeroVironment Tumbles",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/4e1e26c1-b3ca-396f-b7f8-7f1594f8df31/drone-stocks-see-limited.html",
+        "published_at": "2026-06-15T19:00:14Z"
+      },
+      {
+        "headline": "Quantum Stocks Fall Tuesday as Rates Force Rotation: IonQ Down 6%, D-Wave Drops 6%, Rigetti Falls 5%",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/6e5b0cd0-6b0f-3723-9ef3-74a5dbdc716d/quantum-stocks-fall-tuesday.html",
+        "published_at": "2026-06-15T18:59:21Z"
+      },
+      {
+        "headline": "Why Kulicke & Soffa Stock Slumped by Nearly 10% Today",
+        "source": "Motley Fool",
+        "url": "https://finance.yahoo.com/m/abd16ba5-6fe8-3df8-86e7-235c4a09d565/why-kulicke-%26-soffa-stock.html",
+        "published_at": "2026-06-15T18:47:56Z"
+      }
+    ],
+    "QQQM": [
+      {
+        "headline": "QYLD Holders Left $56,700 Per $10,000 on the Table Chasing Twelve Years of Monthly Income",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/f3d4365d-5950-3f55-a920-b6d66b07591a/qyld-holders-left-%2456%2C700-per.html",
+        "published_at": "2025-04-15T23:25:59Z"
+      },
+      {
+        "headline": "How a 67-Year-Old With $500,000 in JEPQ Hands the IRS $12,800 a Year for That Monthly Check",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/9187188e-34d1-3afb-91d3-a0ceba3e786f/how-a-67-year-old-with.html",
+        "published_at": "2025-04-15T04:21:59Z"
+      },
+      {
+        "headline": "Investing $500 a Month Into These 3 ETFs Could Retire You a Millionaire",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/5b45b6f7-a800-32c8-93e8-205f9e0ef200/investing-%24500-a-month-into.html",
+        "published_at": "2025-04-14T16:04:00Z"
+      }
+    ],
+    "SCHG": [
+      {
+        "headline": "Seven in 10 People Over 65 Will Need Long-Term Care. Medicare Mostly Won't Pay. These 3 ETFs Build the Fund",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/1afce527-c2e5-3c65-8e82-c9d197e7e16e/seven-in-10-people-over-65.html",
+        "published_at": "2026-06-14T09:35:02Z"
+      },
+      {
+        "headline": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/52cd3998-c529-3980-8053-228676001fcf/schg-vs-qqq-vs-vug%3A-we.html",
+        "published_at": "2026-06-10T02:43:51Z"
+      },
+      {
+        "headline": "You Paid Into Social Security for 40 Years. The IRS Can Still Tax 85% of Your Check. These 3 ETFs Even the Score",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/36c49a48-2806-305c-aba7-7aa528c556d8/you-paid-into-social-security.html",
+        "published_at": "2026-06-05T10:29:01Z"
+      }
+    ],
+    "VOO": [
+      {
+        "headline": "VOO's 0.03% Fee Hides the Real Cost: 38% of Your S&P 500 Money Is Now in One Sector",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/70a17e54-be18-3f47-ab75-ce552ed93396/voo%E2%80%99s-0.03%25-fee-hides-the.html",
+        "published_at": "2025-06-15T15:38:38Z"
+      },
+      {
+        "headline": "Vanguard Handed 53 Funds a Fee Cut This Year and Skipped the VGT ETF Entirely",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/52264197-3f91-3f53-89c5-8eeae7e95655/vanguard-handed-53-funds-a.html",
+        "published_at": "2025-06-15T14:05:22Z"
+      },
+      {
+        "headline": "Where Will the Vanguard S&P 500 ETF Be in 20 Years? History Has Good and Bad News for Investors.",
+        "source": "Motley Fool",
+        "url": "https://finance.yahoo.com/m/c092fb4b-8d31-36be-be38-7e5722049fd5/where-will-the-vanguard-s%26p.html",
+        "published_at": "2025-06-15T13:45:00Z"
+      }
+    ],
+    "Z": [
+      {
+        "headline": "Opendoor Is Down 42% in 2026: How Does It Compare to Housing Competitors Like Offerpad and Compass?",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/m/3b520a64-7b5f-3967-91e5-882fd5ea85cf/opendoor-is-down-42%25-in-2026%3A.html",
+        "published_at": "2026-06-16T14:30:21Z"
+      },
+      {
+        "headline": "Rents near $2,000, rising at the fastest pace in over a year",
+        "source": "PR Newswire",
+        "url": "https://finance.yahoo.com/real-estate/articles/rents-near-2-000-rising-120000235.html",
+        "published_at": "2026-06-16T05:00:00Z"
+      },
+      {
+        "headline": "Kahn Brothers' Bold Q2 2026 Move: Zillow Group Inc Surges to a 3.17% Portfolio Impact",
+        "source": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/kahn-brothers-bold-q2-2026-160032660.html",
+        "published_at": "2026-06-15T16:00:32Z"
+      }
+    ],
     "MYU0100A8420": []
   }
 }
