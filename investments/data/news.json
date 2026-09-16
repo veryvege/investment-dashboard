@@ -1,144 +1,144 @@
 {
-  "as_of": "2026-08-05T00:00:00Z",
+  "as_of": "2026-09-16T00:00:00Z",
   "news": {
     "AAPL": [
       {
-        "headline": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down",
-        "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/ed87df3d-8365-3306-baee-b0383fa2e6d3/3-reasons-to-buy-apple-stock.html",
-        "published_at": "2025-04-05T12:14:40Z"
+        "headline": "TSMC's 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
+        "source": "Insider Monkey",
+        "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-era-accelerating-mediatek-214827953.html",
+        "published_at": "2026-09-15T21:48:27Z"
       },
       {
-        "headline": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-        "source": "decrypt",
-        "url": "https://finance.yahoo.com/m/8f149854-0bee-36fe-9c8e-4516691e1d25/openai-dumps-apple-employees%27.html",
-        "published_at": "2025-04-05T10:59:23Z"
+        "headline": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
+        "source": "Investor's Business Daily",
+        "url": "https://finance.yahoo.com/m/abcff3bf-aa03-3635-8d7c-acbe8b8a05b3/dow-jones-tech-titan-apple%2C.html",
+        "published_at": "2026-09-15T20:38:46Z"
       },
       {
-        "headline": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
-        "source": "Barrons.com",
-        "url": "https://finance.yahoo.com/m/f7f2d72b-31c5-3111-97ea-c084778c2ca9/here%27s-when-spacex-expects-%241.html",
-        "published_at": "2025-04-05T10:34:43Z"
+        "headline": "Samsung turns Tim Cook into its latest marketing weapon",
+        "source": "TheStreet",
+        "url": "https://finance.yahoo.com/media-advertising/articles/samsung-turns-tim-cook-latest-203300754.html",
+        "published_at": "2026-09-15T20:33:00Z"
       }
     ],
     "JNJ": [
       {
-        "headline": "How Much Do You Really Need Invested to Replace a $100,000 Salary With Dividends?",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/7fdc663a-472e-3293-ad0f-92033c5771b3/how-much-do-you-really-need.html",
-        "published_at": "2025-04-05T12:23:28Z"
-      },
-      {
-        "headline": "Johnson & Johnson to Participate in the 2026 Wells Fargo Healthcare Conference",
-        "source": "Business Wire",
-        "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-participate-2026-wells-200500029.html",
-        "published_at": "2025-04-05T11:45:00Z"
-      },
-      {
-        "headline": "The $85 Billion Consolation Prize For JNJ Shareholders",
+        "headline": "Merck Stock: Is The $70 Billion Pipeline Worth the Premium?",
         "source": "Trefis",
-        "url": "https://finance.yahoo.com/m/48d95793-ee34-3e8b-8a55-1b336553d5ec/the-%2485-billion-consolation.html",
-        "published_at": "2025-04-05T11:23:10Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/merck-stock-70-billion-pipeline-004433851.html",
+        "published_at": "2026-09-16T00:44:33Z"
+      },
+      {
+        "headline": "LEGN's New CEO From Novartis Paves Way For Buyout Speculation",
+        "source": "Stocktwits",
+        "url": "https://finance.yahoo.com/healthcare/articles/legn-ceo-novartis-paves-way-234024660.html",
+        "published_at": "2026-09-15T23:40:24Z"
+      },
+      {
+        "headline": "Has BSX Stock Finally Hit Bottom?",
+        "source": "Trefis",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bsx-stock-finally-hit-bottom-190057883.html",
+        "published_at": "2026-09-15T19:01:57Z"
       }
     ],
     "NVDA": [
       {
-        "headline": "Why ASML Stock Lost 18% in July",
+        "headline": "SpaceX's Next Share Unlock Is Coming. History Says This Is What Happens Next.",
         "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/bde7d268-1b6b-30c9-9786-36a40c5dd22c/why-asml-stock-lost-18%25-in.html",
-        "published_at": "2026-04-05T03:30:00Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-next-share-unlock-coming-005000128.html",
+        "published_at": "2025-01-15T09:30:00Z"
       },
       {
-        "headline": "What Alphabet's Stock Drop Tells Us About the Market Today",
+        "headline": "Nvidia Just Reshuffled Its $99 Billion Portfolio, and 1 Stock Moved Up the Ranks",
         "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/826b4186-b118-34e1-b922-9d88903f8470/what-alphabet%E2%80%99s-stock-drop.html",
-        "published_at": "2026-04-05T03:24:43Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-reshuffled-99-billion-002000419.html",
+        "published_at": "2025-01-15T09:00:00Z"
       },
       {
-        "headline": "Micron Trades at Just 5 Times Forward Earnings. Here's Why the Market Doesn't Trust the Memory Supercycle Yet.",
+        "headline": "Why Radiant Logistics Stock Topped the Market on Tuesday",
         "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/d2edb4ee-49fa-3e18-b0c3-082c843b42f9/micron-trades-at-just-5-times.html",
-        "published_at": "2026-04-05T03:00:00Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-radiant-logistics-stock-topped-001828626.html",
+        "published_at": "2025-01-15T08:58:28Z"
       }
     ],
     "QQQM": [
       {
-        "headline": "Bull of the Day: Invesco (IVZ)",
-        "source": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-invesco-ivz-080000365.html",
-        "published_at": "2024-04-04T00:00:00Z"
+        "headline": "JEPQ's Monthly Check Has Swung From $0.34 to $0.70 a Share: The $500,000 Retiree Can't Budget on It",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/options/articles/jepq-monthly-check-swung-0-215512528.html",
+        "published_at": "2025-01-10"
       },
       {
-        "headline": "5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years",
+        "headline": "You Own JEPQ for the Monthly Check, and the IRS Taxes Every Dollar of It Like Wages",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/5789adc6-9f7a-36d2-9525-7458e634f2d3/5-etfs-to-buy-once-and-hold.html",
-        "published_at": "2024-04-01T15:07:58Z"
+        "url": "https://finance.yahoo.com/markets/options/articles/own-jepq-monthly-check-irs-215553647.html",
+        "published_at": "2025-01-09"
       },
       {
-        "headline": "1 Monthly-Paying ETF Retirees Are Buying Hand Over Fist, and the 1 Thing They're Giving Up",
+        "headline": "How a 66-Year-Old's $800,000 in JEPQ and QQQI Pays $8,200 a Month, and the IRS Only Sees Half of It",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/cacca807-776c-3041-a254-ddbb7162f0d4/1-monthly-paying-etf-retirees.html",
-        "published_at": "2024-03-24T14:18:49Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/66-old-800-000-jepq-214535054.html",
+        "published_at": "2025-01-07"
       }
     ],
     "SCHG": [
       {
-        "headline": "These Growth Funds Are On Quiet Sale",
-        "source": "Trefis",
-        "url": "https://finance.yahoo.com/m/0062251c-11c9-3fbb-8a9f-eea64174b56d/these-growth-funds-are-on.html",
-        "published_at": "2025-05-24T14:33:02Z"
+        "headline": "Converting Your IRA to a Roth Means Paying the Tax Early on Purpose, and These 3 ETFs Are Why It Still Wins",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/options/articles/converting-ira-roth-means-paying-211523536.html",
+        "published_at": "2025-01-10"
       },
       {
-        "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/5a93a533-bc19-31dd-8846-19787e88147c/meta%2C-tesla%2C-nvidia%3A-this-etf.html",
-        "published_at": "2025-05-22T06:30:20Z"
+        "headline": "Should Schwab U.S. Large-Cap Growth ETF (SCHG) Be on Your Investing Radar?",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/schwab-u-large-cap-growth-102002011.html",
+        "published_at": "2025-01-07"
       },
       {
-        "headline": "The Megacap Growth ETF That's Been Beating the S&P 500 for a Decade Straight",
+        "headline": "The Only Account the IRS Never Taxes Going In, Growing, or Coming Out: 3 ETFs That Belong Inside It",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/ac7d1dbc-ac25-3f69-952f-b2f6ad7030ba/the-megacap-growth-etf-that%E2%80%99s.html",
-        "published_at": "2025-05-22T05:35:05Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/only-account-irs-never-taxes-220506987.html",
+        "published_at": "2025-01-04"
       }
     ],
     "VOO": [
       {
-        "headline": "The Dow Just Gained 1000 Points for the 27th Day Ever. 25 of These Days Happened Under Donald Trump.",
+        "headline": "You Bought VOO and VTI for Diversification. About 85% of Your Money Sits in the Same Stocks",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/8e345ac2-baff-3665-94df-b61199eda4c3/the-dow-just-gained-1000.html",
-        "published_at": "2025-04-05T07:32:21Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bought-voo-vti-diversification-85-210512265.html",
+        "published_at": "2025-05-11T04:58:32Z"
       },
       {
-        "headline": "Warren Buffett's Wealth-Building Strategy Points to This One ETF for Long-Term Investors",
-        "source": "Benzinga",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-wealth-building-strategy-193107207.html",
-        "published_at": "2025-04-05T03:37:47Z"
-      },
-      {
-        "headline": "This Is the Biggest Mistake Too Many Investors Make With an S&P 500 ETF",
+        "headline": "The Fed Is Expected to Raise Interest Rates Wednesday. Should You Buy the S&P 500 Before It Does?",
         "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/a9086ee9-e8c4-3739-b19e-34d07dd3fa6f/this-is-the-biggest-mistake.html",
-        "published_at": "2025-04-05T02:00:00Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/fed-expected-raise-interest-rates-140500682.html",
+        "published_at": "2025-05-11T01:45:00Z"
+      },
+      {
+        "headline": "Bond Yields Near 5% as ETF Investors Keep Buying",
+        "source": "etf.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bond-yields-near-5-etf-003854939.html",
+        "published_at": "2025-05-10T13:32:14Z"
       }
     ],
     "Z": [
       {
-        "headline": "We Bought Our House 2 Years Ago. Now the County Says It's Worth Far More Than Zillow Does and Our Monthly Payment Could Jump by Hundreds",
-        "source": "Benzinga",
-        "url": "https://finance.yahoo.com/real-estate/articles/bought-house-2-years-ago-144603348.html",
-        "published_at": "2026-08-04T18:26:03Z"
+        "headline": "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/real-estate/articles/rate-hike-jitters-rattle-ibuyer-143125085.html",
+        "published_at": "2026-09-15T14:31:25Z"
       },
       {
-        "headline": "Mortgage and refinance rates today, Tuesday, August 4, 2026: Rates firm as U.S. pivots to diplomacy with Iran",
-        "source": "Yahoo Personal Finance",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-4-2026-rates-firm-as-us-pivots-to-diplomacy-with-iran-100000343.html",
-        "published_at": "2026-08-04T12:00:00Z"
+        "headline": "Is Zillow Group's (ZG) Platform Strategy Built To Withstand A Prolonged Slowdown In New Home Supply?",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/real-estate/articles/zillow-groups-zg-platform-strategy-200923999.html",
+        "published_at": "2026-09-14T20:09:23Z"
       },
       {
-        "headline": "HealthStream (HSTM) Q2 Earnings and Revenues Top Estimates",
-        "source": "Zacks",
-        "url": "https://finance.yahoo.com/healthcare/articles/healthstream-hstm-q2-earnings-revenues-224506020.html",
-        "published_at": "2026-08-03T23:45:06Z"
+        "headline": "The new home construction boom is running out of steam",
+        "source": "PR Newswire",
+        "url": "https://finance.yahoo.com/real-estate/articles/home-construction-boom-running-steam-120000335.html",
+        "published_at": "2026-09-14T12:00:00Z"
       }
     ],
     "1023": [],
