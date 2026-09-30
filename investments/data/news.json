@@ -1,146 +1,127 @@
 {
-  "as_of": "2026-08-05T00:00:00Z",
+  "as_of": "2026-09-30T00:00:00Z",
   "news": {
     "AAPL": [
       {
-        "headline": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down",
+        "headline": "History Says Nvidia's Record $150 Billion Buyback Is Good News for the Stock",
         "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/ed87df3d-8365-3306-baee-b0383fa2e6d3/3-reasons-to-buy-apple-stock.html",
-        "published_at": "2025-04-05T12:14:40Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-nvidias-record-150-010301431.html",
+        "published_at": "2025-01-31T02:03:01Z"
       },
       {
-        "headline": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-        "source": "decrypt",
-        "url": "https://finance.yahoo.com/m/8f149854-0bee-36fe-9c8e-4516691e1d25/openai-dumps-apple-employees%27.html",
-        "published_at": "2025-04-05T10:59:23Z"
+        "headline": "Apple is betting $1,999 that consumers are ready for this shift",
+        "source": "TheStreet",
+        "url": "https://finance.yahoo.com/technology/articles/apple-betting-1-999-consumers-233700549.html",
+        "published_at": "2025-01-31T01:30:20Z"
       },
       {
-        "headline": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
-        "source": "Barrons.com",
-        "url": "https://finance.yahoo.com/m/f7f2d72b-31c5-3111-97ea-c084778c2ca9/here%27s-when-spacex-expects-%241.html",
-        "published_at": "2025-04-05T10:34:43Z"
+        "headline": "New Apple CEO John Ternus is reportedly planning layoffs as memory chip costs rise",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/article/new-apple-ceo-john-ternus-is-reportedly-planning-layoffs-as-memory-chip-costs-rise-194734002.html",
+        "published_at": "2025-01-31T01:19:33Z"
       }
     ],
     "JNJ": [
       {
-        "headline": "How Much Do You Really Need Invested to Replace a $100,000 Salary With Dividends?",
-        "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/7fdc663a-472e-3293-ad0f-92033c5771b3/how-much-do-you-really-need.html",
-        "published_at": "2025-04-05T12:23:28Z"
+        "headline": "Johnson & Johnson (JNJ) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-sees-more-204504518.html",
+        "published_at": "2025-01-30T21:58:24Z"
       },
       {
-        "headline": "Johnson & Johnson to Participate in the 2026 Wells Fargo Healthcare Conference",
-        "source": "Business Wire",
-        "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-participate-2026-wells-200500029.html",
-        "published_at": "2025-04-05T11:45:00Z"
+        "headline": "Johnson & Johnson's psoriasis drug Icotyde could hit $4.5B in peak sales, BofA says",
+        "source": "Proactive",
+        "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnsons-psoriasis-drug-icotyde-184200657.html",
+        "published_at": "2025-01-30T18:42:00Z"
       },
       {
-        "headline": "The $85 Billion Consolation Prize For JNJ Shareholders",
-        "source": "Trefis",
-        "url": "https://finance.yahoo.com/m/48d95793-ee34-3e8b-8a55-1b336553d5ec/the-%2485-billion-consolation.html",
-        "published_at": "2025-04-05T11:23:10Z"
+        "headline": "Defensive Dividends: 3 Companies Investors Can Rely On",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/defensive-dividends-3-companies-investors-185700331.html",
+        "published_at": "2025-01-30T18:30:20Z"
       }
     ],
     "NVDA": [
       {
-        "headline": "Why ASML Stock Lost 18% in July",
+        "headline": "History Says Nvidia's Record $150 Billion Buyback Is Good News for the Stock",
         "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/bde7d268-1b6b-30c9-9786-36a40c5dd22c/why-asml-stock-lost-18%25-in.html",
-        "published_at": "2026-04-05T03:30:00Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-nvidias-record-150-010301431.html",
+        "published_at": "2025-01-31T00:03:01Z"
       },
       {
-        "headline": "What Alphabet's Stock Drop Tells Us About the Market Today",
+        "headline": "Why Marvell Technology Stock Triumphed on Tuesday",
         "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/826b4186-b118-34e1-b922-9d88903f8470/what-alphabet%E2%80%99s-stock-drop.html",
-        "published_at": "2026-04-05T03:24:43Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-triumphed-000642409.html",
+        "published_at": "2025-01-30T22:53:22Z"
       },
       {
-        "headline": "Micron Trades at Just 5 Times Forward Earnings. Here's Why the Market Doesn't Trust the Memory Supercycle Yet.",
-        "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/d2edb4ee-49fa-3e18-b0c3-082c843b42f9/micron-trades-at-just-5-times.html",
-        "published_at": "2026-04-05T03:00:00Z"
+        "headline": "Review & Preview: Yields Beat Doves",
+        "source": "Barrons.com",
+        "url": "https://finance.yahoo.com/m/dab15f88-c8fc-3d86-ad85-dd86743d84e6/review-%26-preview%3A-yields-beat.html",
+        "published_at": "2025-01-30T22:48:20Z"
       }
     ],
     "QQQM": [
       {
-        "headline": "Bull of the Day: Invesco (IVZ)",
-        "source": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-invesco-ivz-080000365.html",
-        "published_at": "2024-04-04T00:00:00Z"
+        "headline": "QQQM Charges 0.15% and QQQ Charges 0.18%. A Wide Spread Can Take That Back on a Single Trade",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qqqm-charges-0-15-qqq-233150344.html",
+        "published_at": "2025-01-31T02:51:50Z"
       },
       {
-        "headline": "5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years",
+        "headline": "This 17% Yield Nasdaq Covered Call ETF Is Somehow Outperforming QQQ",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/5789adc6-9f7a-36d2-9525-7458e634f2d3/5-etfs-to-buy-once-and-hold.html",
-        "published_at": "2024-04-01T15:07:58Z"
+        "url": "https://finance.yahoo.com/markets/options/articles/17-yield-nasdaq-covered-call-010210513.html",
+        "published_at": "2025-01-29T00:02:10Z"
       },
       {
-        "headline": "1 Monthly-Paying ETF Retirees Are Buying Hand Over Fist, and the 1 Thing They're Giving Up",
+        "headline": "QYLD's Monthly Check Looks Great Until April's 1099 Reclassifies It as Ordinary Income",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/cacca807-776c-3041-a254-ddbb7162f0d4/1-monthly-paying-etf-retirees.html",
-        "published_at": "2024-03-24T14:18:49Z"
+        "url": "https://finance.yahoo.com/markets/options/articles/qyld-monthly-check-looks-great-224545959.html",
+        "published_at": "2025-01-27T22:45:45Z"
       }
     ],
     "SCHG": [
       {
-        "headline": "These Growth Funds Are On Quiet Sale",
-        "source": "Trefis",
-        "url": "https://finance.yahoo.com/m/0062251c-11c9-3fbb-8a9f-eea64174b56d/these-growth-funds-are-on.html",
-        "published_at": "2025-05-24T14:33:02Z"
+        "headline": "QQQM Charges 0.15% and QQQ Charges 0.18%. A Wide Spread Can Take That Back on a Single Trade",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qqqm-charges-0-15-qqq-233150344.html",
+        "published_at": "2025-01-31T07:11:50Z"
       },
       {
-        "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
+        "headline": "Fidelity's Fundamental Large Cap Growth ETF, Explained in Plain English",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/5a93a533-bc19-31dd-8846-19787e88147c/meta%2C-tesla%2C-nvidia%3A-this-etf.html",
-        "published_at": "2025-05-22T06:30:20Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-fundamental-large-cap-growth-034650447.html",
+        "published_at": "2025-01-28T08:26:50Z"
       },
       {
-        "headline": "The Megacap Growth ETF That's Been Beating the S&P 500 for a Decade Straight",
+        "headline": "Investing $1,000 a Month Into These 3 ETFs Could Retire You With $2 Million",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/ac7d1dbc-ac25-3f69-952f-b2f6ad7030ba/the-megacap-growth-etf-that%E2%80%99s.html",
-        "published_at": "2025-05-22T05:35:05Z"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investing-1-000-month-3-211118482.html",
+        "published_at": "2025-01-26T21:17:58Z"
       }
     ],
     "VOO": [
       {
-        "headline": "The Dow Just Gained 1000 Points for the 27th Day Ever. 25 of These Days Happened Under Donald Trump.",
+        "headline": "Heartbeat Trades Fuel VOO's $48B Weekly Outflows",
+        "source": "etf.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/heartbeat-trades-fuel-voos-48b-060955713.html",
+        "published_at": "2025-05-29T13:16:35Z"
+      },
+      {
+        "headline": "Retiring on $800K? These 4 ETFs Let You Take 5% Safely",
         "source": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/m/8e345ac2-baff-3665-94df-b61199eda4c3/the-dow-just-gained-1000.html",
-        "published_at": "2025-04-05T07:32:21Z"
+        "url": "https://finance.yahoo.com/markets/options/articles/retiring-800k-4-etfs-let-220114842.html",
+        "published_at": "2025-05-29T05:34:34Z"
       },
       {
-        "headline": "Warren Buffett's Wealth-Building Strategy Points to This One ETF for Long-Term Investors",
-        "source": "Benzinga",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-wealth-building-strategy-193107207.html",
-        "published_at": "2025-04-05T03:37:47Z"
-      },
-      {
-        "headline": "This Is the Biggest Mistake Too Many Investors Make With an S&P 500 ETF",
-        "source": "Motley Fool",
-        "url": "https://finance.yahoo.com/m/a9086ee9-e8c4-3739-b19e-34d07dd3fa6f/this-is-the-biggest-mistake.html",
-        "published_at": "2025-04-05T02:00:00Z"
+        "headline": "Still Working at 73? The 401(k) at Your Current Job Skips the RMD Entirely. These 3 ETFs Belong in It",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/options/articles/still-working-73-401-k-214809268.html",
+        "published_at": "2025-05-29T03:48:09Z"
       }
     ],
-    "Z": [
-      {
-        "headline": "We Bought Our House 2 Years Ago. Now the County Says It's Worth Far More Than Zillow Does and Our Monthly Payment Could Jump by Hundreds",
-        "source": "Benzinga",
-        "url": "https://finance.yahoo.com/real-estate/articles/bought-house-2-years-ago-144603348.html",
-        "published_at": "2026-08-04T18:26:03Z"
-      },
-      {
-        "headline": "Mortgage and refinance rates today, Tuesday, August 4, 2026: Rates firm as U.S. pivots to diplomacy with Iran",
-        "source": "Yahoo Personal Finance",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-4-2026-rates-firm-as-us-pivots-to-diplomacy-with-iran-100000343.html",
-        "published_at": "2026-08-04T12:00:00Z"
-      },
-      {
-        "headline": "HealthStream (HSTM) Q2 Earnings and Revenues Top Estimates",
-        "source": "Zacks",
-        "url": "https://finance.yahoo.com/healthcare/articles/healthstream-hstm-q2-earnings-revenues-224506020.html",
-        "published_at": "2026-08-03T23:45:06Z"
-      }
-    ],
+    "Z": [],
     "1023": [],
     "5211": [],
     "5347": [],
